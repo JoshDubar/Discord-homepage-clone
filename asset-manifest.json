@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Discord-homepage-clone/static/css/main.0501712d.chunk.css",
-    "main.js": "/Discord-homepage-clone/static/js/main.68697038.chunk.js",
-    "main.js.map": "/Discord-homepage-clone/static/js/main.68697038.chunk.js.map",
+    "main.js": "/Discord-homepage-clone/static/js/main.645bbc8a.chunk.js",
+    "main.js.map": "/Discord-homepage-clone/static/js/main.645bbc8a.chunk.js.map",
     "runtime-main.js": "/Discord-homepage-clone/static/js/runtime-main.32ed9711.js",
     "runtime-main.js.map": "/Discord-homepage-clone/static/js/runtime-main.32ed9711.js.map",
     "static/js/2.2152a64d.chunk.js": "/Discord-homepage-clone/static/js/2.2152a64d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.32ed9711.js",
     "static/js/2.2152a64d.chunk.js",
     "static/css/main.0501712d.chunk.css",
-    "static/js/main.68697038.chunk.js"
+    "static/js/main.645bbc8a.chunk.js"
   ]
 }
