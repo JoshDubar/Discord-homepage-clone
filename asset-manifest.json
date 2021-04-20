@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Discord-homepage-clone/static/css/main.9947091f.chunk.css",
-    "main.js": "/Discord-homepage-clone/static/js/main.b50d9241.chunk.js",
-    "main.js.map": "/Discord-homepage-clone/static/js/main.b50d9241.chunk.js.map",
+    "main.css": "/Discord-homepage-clone/static/css/main.2be1847d.chunk.css",
+    "main.js": "/Discord-homepage-clone/static/js/main.0d950fec.chunk.js",
+    "main.js.map": "/Discord-homepage-clone/static/js/main.0d950fec.chunk.js.map",
     "runtime-main.js": "/Discord-homepage-clone/static/js/runtime-main.32ed9711.js",
     "runtime-main.js.map": "/Discord-homepage-clone/static/js/runtime-main.32ed9711.js.map",
     "static/js/2.b167d427.chunk.js": "/Discord-homepage-clone/static/js/2.b167d427.chunk.js",
     "static/js/2.b167d427.chunk.js.map": "/Discord-homepage-clone/static/js/2.b167d427.chunk.js.map",
     "index.html": "/Discord-homepage-clone/index.html",
-    "static/css/main.9947091f.chunk.css.map": "/Discord-homepage-clone/static/css/main.9947091f.chunk.css.map",
+    "static/css/main.2be1847d.chunk.css.map": "/Discord-homepage-clone/static/css/main.2be1847d.chunk.css.map",
     "static/js/2.b167d427.chunk.js.LICENSE.txt": "/Discord-homepage-clone/static/js/2.b167d427.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.32ed9711.js",
     "static/js/2.b167d427.chunk.js",
-    "static/css/main.9947091f.chunk.css",
-    "static/js/main.b50d9241.chunk.js"
+    "static/css/main.2be1847d.chunk.css",
+    "static/js/main.0d950fec.chunk.js"
   ]
 }
